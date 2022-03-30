@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>What's Cooking</title>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+      <link rel="stylesheet" href="style.css">
+   </head>
+   <body>
+      <div class="container">
+         <header>
+            <input type="text" placeholder="Find a recipe" id="search-term">
+            <button id="search"><i class="fas fa-search"></i></button>
+         </header>
+         <div class="fav-container">
+            <h3>What's Cooking?</h3>
+            <ul class="fav-meals" id="fav-meals"></ul>
+         </div>
+         <div class="meals" id="meals"></div>
+      </div>
+      <div class="popup-container hidden" id="meal-popup">
+         <div class="popup">
+            <button id="close-popup" class="close-popup">
+            <i class="fas fa-times"></i>
+            </button>
+            <div class="meal-info" id="meal-info"></div>
+         </div>
+      </div>
+      <script src="main.js"></script>
+   </body>
+</html>
