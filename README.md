@@ -18,4 +18,4 @@ A recipe app where user can sift through tons of recipes and view the ingredient
 
 ## Screenshot
 
-![Screenshot 2022-04-19 at 23-11-56 What's Cooking](https://user-images.githubusercontent.com/77227201/164063824-f5e4ddf3-f2ef-4361-9750-26e3ae87438a.png)
+![Screenshot 2022-04-28 at 20-14-43 What's Cooking](https://user-images.githubusercontent.com/77227201/165779453-b5127b24-a533-4f61-ac20-96bf3b7a18e3.png)
