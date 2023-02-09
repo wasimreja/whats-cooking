@@ -3,11 +3,15 @@
    <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
    <img src="https://forthebadge.com/images/badges/made-with-javascript.svg" />
 </p>
-<h3 align="center">Explore the foodie in you!</h3>
 
 ## About The Project
 
-A recipe app where user can sift through tons of recipes and view the ingredients and the description of the process to prepare the meal. It also allows users to save favorites and get random recipes.
+A recipe app that retrieves the recipe of various dishes from TheMealDB API.
+
+## Features
+
+- User can sift through tons of recipes and view the ingredients and the description of the process to prepare the meal. 
+- It also allows users to save favorites and get random recipes.
 
 ## Tech Stack
 
